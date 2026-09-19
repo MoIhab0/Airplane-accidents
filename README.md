@@ -91,7 +91,7 @@ This project analyzes aviation accident and incident records to identify safety 
 
 **Goal:** Identify accident concentration by location and examine the relationship between weather conditions and accident severity.
 
-![Geographic and Environmental Risk Dashboard](assets/dashboard-3-geographic-environmental-risk.jpeg)
+![Geographic and Environmental Risk Dashboard](assets/dashboard-3-geographic-environmental-risk.png)
 
 ### Business Questions
 
