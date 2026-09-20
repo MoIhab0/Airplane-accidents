@@ -126,11 +126,12 @@ This project analyzes aviation accident and incident records to identify safety 
 
 ## Team
 
+- Kirollos Gadallah
 - Abdelshakour Adel
 - Osama Ahmed
 - Mohammed Ihab
 - Basmala Mahmoud
-- Kirollos Godallah
+
 
 ### Supervisor
 
